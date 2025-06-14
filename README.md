@@ -1,19 +1,19 @@
 # Covid_19-Dashboard
 This interactive Power BI dashboard provides a data-driven analysis of the global impact of SARS-CoV-2 (COVID-19), focusing on confirmed cases, deaths, and recovery trends across different countries/regions over time.
 
--Key Insights Displayed:
-------Summary Metrics at the top-------
--Recovered Cases: 56.35K,
--Death Count: 224.36K,
--Confirmed Cases: 224.35K
--Country-Wise Analysis:
--Bar & Line Combo Chart: Displays count of confirmed cases and maximum deaths per country.
--Right Table: Tabular summary of total confirmed cases and deaths per region, such as China, France, Japan, etc.
-->Trend Over Time:
-Bar Chart (bottom right): Shows how confirmed cases changed over time (LastUpdate Date) – highlighting peak periods of infection.
-->Average Deaths Per Country:
-A simple bar highlights average deaths by country, showing outliers like Hong Kong.
--Slicer Panel (top right): Enables filtering by country/region for detailed analysis.
+Key Insights Displayed:
+  1.	Summary Metrics at the top:
+a.	Recovered Cases: 56.35K
+b.	Death Count: 224.36K
+c.	Confirmed Cases: 224.35K
+  2.	Country-Wise Analysis:
+a.	Bar & Line Combo Chart: Displays count of confirmed cases and maximum deaths per country.
+b.	Right Table: Tabular summary of total confirmed cases and deaths per region, such as China, France, Japan, etc.
+  3.	Trend Over Time:
+a.	Bar Chart (bottom right): Shows how confirmed cases changed over time (LastUpdate Date) – highlighting peak periods of infection.
+  4.	Average Deaths Per Country:
+a.	A simple bar highlights average deaths by country, showing outliers like Hong Kong.
+  5.	Slicer Panel (top right): Enables filtering by country/region for detailed analysis.
 
  ->Questions You Can Answer With This Dashboard:
  ->Basic Summary:
