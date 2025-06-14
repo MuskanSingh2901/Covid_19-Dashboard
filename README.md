@@ -3,17 +3,17 @@ This interactive Power BI dashboard provides a data-driven analysis of the globa
 
 -Key Insights Displayed:
 ------Summary Metrics at the top-------
-o	Recovered Cases: 56.35K
-o	Death Count: 224.36K
-o	Confirmed Cases: 224.35K
-•	Country-Wise Analysis:
-o	Bar & Line Combo Chart: Displays count of confirmed cases and maximum deaths per country.
-o	Right Table: Tabular summary of total confirmed cases and deaths per region, such as China, France, Japan, etc.
-•	Trend Over Time:
-o	Bar Chart (bottom right): Shows how confirmed cases changed over time (LastUpdate Date) – highlighting peak periods of infection.
-•	Average Deaths Per Country:
-o	A simple bar highlights average deaths by country, showing outliers like Hong Kong.
-•	Slicer Panel (top right): Enables filtering by country/region for detailed analysis.
+Recovered Cases: 56.35K,
+Death Count: 224.36K,
+Confirmed Cases: 224.35K
+Country-Wise Analysis:
+Bar & Line Combo Chart: Displays count of confirmed cases and maximum deaths per country.
+Right Table: Tabular summary of total confirmed cases and deaths per region, such as China, France, Japan, etc.
+-Trend Over Time:
+Bar Chart (bottom right): Shows how confirmed cases changed over time (LastUpdate Date) – highlighting peak periods of infection.
+-Average Deaths Per Country:
+A simple bar highlights average deaths by country, showing outliers like Hong Kong.
+-Slicer Panel (top right): Enables filtering by country/region for detailed analysis.
 
  -Questions You Can Answer With This Dashboard:
  -Basic Summary:
